@@ -69,3 +69,4 @@ class NetReader:
         #says the word from the book over the speakers
 
 
+ 
