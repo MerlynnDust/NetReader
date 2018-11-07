@@ -10,7 +10,7 @@ class NetReader:
 
     #constructor designed to load things like settings.source as usable variables on object creation.
     def __init__(self):
-        #Booksites
+        #Booksites 
         Novel12 = "https://novel12.com/"
         Gutenberg = "https://www.gutenberg.org/"
 
